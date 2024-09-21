@@ -7,6 +7,16 @@
 # Log files
 *.log
 
+# Ignore logs directory
+logs/
+mvenv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+
+
 # Package files
 *.jar
 
